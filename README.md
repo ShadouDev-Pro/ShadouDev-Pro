@@ -25,6 +25,7 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash" />
+  <img src="https://img.shields.io/badge/Zsh-000?style=for-the-badge&logo=zsh" />
   <img src="https://img.shields.io/badge/PowerShell-000?style=for-the-badge&logo=powershell" />
 </p>
 
@@ -46,6 +47,7 @@
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/pgAdmin4-000?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/NeoVim-000?style=for-the-badge&logo=neovim" />
 </p>
 
 ---
