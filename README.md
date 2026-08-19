@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/pgAdmin4-000?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite" />
   <img src="https://img.shields.io/badge/NeoVim-000?style=for-the-badge&logo=neovim" />
 </p>
 
