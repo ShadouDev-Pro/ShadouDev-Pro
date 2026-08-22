@@ -84,7 +84,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShadouDev-Pro&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ShadouDev-Pro&theme=tokyonight" />
 </p>
 
 ---
